@@ -1,0 +1,376 @@
+INFO - 2023-04-23 00:01:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 00:01:01 --> mime_content_type(Z:\xampp\htdocs\hbl-kye\writable\uploads/avatar/SUJAN_PHOTo.jpg): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Resource.php on line 11.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mime_content_type(Z:\\xampp\\htdocs\\hbl-kye\\writable\\uploads/avatar/SUJAN_PHOTo.jpg): Failed to open stream: No such file or directory', 'Z:\\xampp\\htdocs\\hbl-kye\\app\\Controllers\\Resource.php', 11)
+ 2 APPPATH\Controllers\Resource.php(11): mime_content_type('Z:\\xampp\\htdocs\\hbl-kye\\writable\\uploads/avatar/SUJAN_PHOTo.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Resource->index('SUJAN_PHOTo.jpg')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Resource))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 00:01:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 00:01:49 --> mime_content_type(Z:\xampp\htdocs\hbl-kye\writable\uploads/avatar/SUJAN_PHOTo.jpg): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Resource.php on line 11.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mime_content_type(Z:\\xampp\\htdocs\\hbl-kye\\writable\\uploads/avatar/SUJAN_PHOTo.jpg): Failed to open stream: No such file or directory', 'Z:\\xampp\\htdocs\\hbl-kye\\app\\Controllers\\Resource.php', 11)
+ 2 APPPATH\Controllers\Resource.php(11): mime_content_type('Z:\\xampp\\htdocs\\hbl-kye\\writable\\uploads/avatar/SUJAN_PHOTo.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Resource->index('SUJAN_PHOTo.jpg')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Resource))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 00:02:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 00:02:04 --> mime_content_type(Z:\xampp\htdocs\hbl-kye\writable\uploads/avatar/SUJAN_PHOTo.jpg): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Resource.php on line 11.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mime_content_type(Z:\\xampp\\htdocs\\hbl-kye\\writable\\uploads/avatar/SUJAN_PHOTo.jpg): Failed to open stream: No such file or directory', 'Z:\\xampp\\htdocs\\hbl-kye\\app\\Controllers\\Resource.php', 11)
+ 2 APPPATH\Controllers\Resource.php(11): mime_content_type('Z:\\xampp\\htdocs\\hbl-kye\\writable\\uploads/avatar/SUJAN_PHOTo.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Resource->index('SUJAN_PHOTo.jpg')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Resource))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 00:02:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 00:02:21 --> mime_content_type(Z:\xampp\htdocs\hbl-kye\writable\uploads/avatar/SUJAN_PHOTo.jpg): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Resource.php on line 11.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mime_content_type(Z:\\xampp\\htdocs\\hbl-kye\\writable\\uploads/avatar/SUJAN_PHOTo.jpg): Failed to open stream: No such file or directory', 'Z:\\xampp\\htdocs\\hbl-kye\\app\\Controllers\\Resource.php', 11)
+ 2 APPPATH\Controllers\Resource.php(11): mime_content_type('Z:\\xampp\\htdocs\\hbl-kye\\writable\\uploads/avatar/SUJAN_PHOTo.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Resource->index('SUJAN_PHOTo.jpg')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Resource))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 00:03:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:03:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:04:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:04:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:04:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:04:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:04:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:04:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:04:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:04:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:04:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:04:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:05:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 00:08:09 --> mime_content_type(Z:\xampp\htdocs\hbl-kye\writable\uploads/avatar/transcript): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Resource.php on line 11.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mime_content_type(Z:\\xampp\\htdocs\\hbl-kye\\writable\\uploads/avatar/transcript): Failed to open stream: No such file or directory', 'Z:\\xampp\\htdocs\\hbl-kye\\app\\Controllers\\Resource.php', 11)
+ 2 APPPATH\Controllers\Resource.php(11): mime_content_type('Z:\\xampp\\htdocs\\hbl-kye\\writable\\uploads/avatar/transcript')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Resource->index('transcript', 'avatar.jpg')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Resource))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+CRITICAL - 2023-04-23 00:17:11 --> Undefined variable $filename
+in APPPATH\Controllers\Resource.php on line 22.
+ 1 APPPATH\Controllers\Resource.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $filename', 'Z:\\xampp\\htdocs\\hbl-kye\\app\\Controllers\\Resource.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Resource->transacript('avatar.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Resource))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 00:18:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:18:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:18:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:18:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:18:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:18:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:18:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:18:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:18:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:18:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:19:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:19:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:19:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:19:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:20:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:20:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:20:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:20:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:20:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:21:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:21:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:30:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:30:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 00:38:07 --> Too few arguments to function App\Controllers\Address::getdistrict(), 0 passed in Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Address.php on line 145.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Address->getdistrict()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Address))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 00:38:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:38:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:38:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:39:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:39:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 00:39:48 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$num_rows
+in APPPATH\Controllers\Address.php on line 150.
+ 1 APPPATH\Controllers\Address.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\Database\\MySQLi\\Result::$num_rows', 'Z:\\xampp\\htdocs\\hbl-kye\\app\\Controllers\\Address.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Address->getdistrict('Madhesh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Address))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 00:39:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:40:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 00:40:22 --> syntax error, unexpected token ")", expecting identifier or variable or "{" or "$"
+in APPPATH\Controllers\Address.php on line 150.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('Z:\\xampp\\htdocs\\hbl-kye\\app\\Controllers\\Address.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Address')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Address')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Address', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 00:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:40:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:40:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:41:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:44:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 00:44:11 --> Object of class stdClass could not be converted to string
+in APPPATH\Controllers\Address.php on line 153.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Address->getdistrict('Madhesh')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Address))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 00:44:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:45:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:45:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 00:45:36 --> Unsupported operand types: string + string
+in APPPATH\Controllers\Address.php on line 154.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Address->getdistrict('Madhesh')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Address))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 00:45:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 00:45:48 --> Unsupported operand types: string + string
+in APPPATH\Controllers\Address.php on line 154.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Address->getdistrict('Madhesh')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Address))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 00:46:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 00:46:05 --> Unsupported operand types: string + string
+in APPPATH\Controllers\Address.php on line 154.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Address->getdistrict('Madhesh')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Address))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 00:46:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 00:46:22 --> Unsupported operand types: string + string
+in APPPATH\Controllers\Address.php on line 154.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Address->getdistrict('Madhesh')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Address))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 00:46:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 00:46:37 --> Unsupported operand types: string + string
+in APPPATH\Controllers\Address.php on line 154.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Address->getdistrict('Madhesh')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Address))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 00:48:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:48:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:50:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 00:50:19 --> Undefined variable $option
+in APPPATH\Controllers\Address.php on line 149.
+ 1 APPPATH\Controllers\Address.php(149): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $option', 'Z:\\xampp\\htdocs\\hbl-kye\\app\\Controllers\\Address.php', 149)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Address->getdistrict('Madhesh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Address))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 00:50:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:50:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:53:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 00:53:10 --> Too few arguments to function App\Controllers\Address::getdistrict(), 1 passed in Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php on line 934 and exactly 2 expected
+in APPPATH\Controllers\Address.php on line 145.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Address->getdistrict('Madhesh')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Address))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 00:53:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:53:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:54:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:54:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:56:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:57:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:57:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:57:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 00:58:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:01:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:02:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 01:02:47 --> Undefined variable $controller
+in APPPATH\Views\address_view.php on line 66.
+ 1 APPPATH\Views\address_view.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $controller', 'Z:\\xampp\\htdocs\\hbl-kye\\app\\Views\\address_view.php', 66)
+ 2 SYSTEMPATH\View\View.php(213): include('Z:\\xampp\\htdocs\\hbl-kye\\app\\Views\\address_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('address_view', [], true)
+ 5 APPPATH\Controllers\Address.php(47): view('address_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Address->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Address))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 01:03:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 01:03:04 --> Call to undefined method CodeIgniter\View\View::getdistrict()
+in APPPATH\Views\address_view.php on line 66.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('address_view', [], true)
+ 4 APPPATH\Controllers\Address.php(47): view('address_view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Address->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Address))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 01:04:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:07:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:07:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 01:07:12 --> Call to undefined method CodeIgniter\View\View::getdistrict()
+in APPPATH\Views\address_view.php on line 66.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('address_view', [], true)
+ 4 APPPATH\Controllers\Address.php(47): view('address_view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Address->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Address))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 01:07:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 01:07:33 --> Undefined property: CodeIgniter\View\View::$controller
+in APPPATH\Views\address_view.php on line 66.
+ 1 APPPATH\Views\address_view.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$controller', 'Z:\\xampp\\htdocs\\hbl-kye\\app\\Views\\address_view.php', 66)
+ 2 SYSTEMPATH\View\View.php(213): include('Z:\\xampp\\htdocs\\hbl-kye\\app\\Views\\address_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('address_view', [], true)
+ 5 APPPATH\Controllers\Address.php(47): view('address_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Address->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Address))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 01:09:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 01:09:13 --> Undefined property: CodeIgniter\View\View::$controller
+in APPPATH\Views\address_view.php on line 66.
+ 1 APPPATH\Views\address_view.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$controller', 'Z:\\xampp\\htdocs\\hbl-kye\\app\\Views\\address_view.php', 66)
+ 2 SYSTEMPATH\View\View.php(213): include('Z:\\xampp\\htdocs\\hbl-kye\\app\\Views\\address_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('address_view', [], true)
+ 5 APPPATH\Controllers\Address.php(48): view('address_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Address->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Address))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 01:09:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 01:09:23 --> Undefined variable $controller
+in APPPATH\Views\address_view.php on line 66.
+ 1 APPPATH\Views\address_view.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $controller', 'Z:\\xampp\\htdocs\\hbl-kye\\app\\Views\\address_view.php', 66)
+ 2 SYSTEMPATH\View\View.php(213): include('Z:\\xampp\\htdocs\\hbl-kye\\app\\Views\\address_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('address_view', [], true)
+ 5 APPPATH\Controllers\Address.php(48): view('address_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Address->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Address))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 01:09:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-23 01:09:57 --> Undefined variable $controller
+in APPPATH\Views\address_view.php on line 66.
+ 1 APPPATH\Views\address_view.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $controller', 'Z:\\xampp\\htdocs\\hbl-kye\\app\\Views\\address_view.php', 66)
+ 2 SYSTEMPATH\View\View.php(213): include('Z:\\xampp\\htdocs\\hbl-kye\\app\\Views\\address_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('address_view', [], true)
+ 5 APPPATH\Controllers\Address.php(48): view('address_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Address->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Address))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-23 01:10:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:11:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:12:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:13:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:14:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:14:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:14:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:14:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:14:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:16:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:22:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:22:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:22:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:22:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:24:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:26:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:26:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:26:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:26:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:27:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:29:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:29:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:29:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:29:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:29:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:29:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:29:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:30:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:30:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:30:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:30:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:30:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:30:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:30:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:30:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:30:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:30:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:30:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:30:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:30:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:30:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:30:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:30:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:30:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:31:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:32:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:32:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:32:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-23 01:32:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

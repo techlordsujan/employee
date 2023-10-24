@@ -1,0 +1,698 @@
+INFO - 2023-04-18 00:07:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:07:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:07:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:07:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:08:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:08:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:08:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:08:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:08:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:08:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:09:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:09:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:09:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:09:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:11:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:11:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:11:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:11:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:11:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:11:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:11:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:13:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:13:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:14:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:14:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:14:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:16:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:17:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:17:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:17:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:17:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:19:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:19:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:19:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:19:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:19:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:19:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:20:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:21:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-18 00:21:57 --> mysqli_sql_exception: Table 'db_hbl_kye.language' doesn't exist in Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1749): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 Z:\xampp\htdocs\hbl-kye\app\Models\LanguageModel.php(79): CodeIgniter\Database\BaseBuilder->getWhere(Array)
+#5 Z:\xampp\htdocs\hbl-kye\app\Controllers\Language.php(34): App\Models\LanguageModel->get_query_data(Array)
+#6 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\Language->index()
+#7 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+#8 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 Z:\xampp\htdocs\hbl-kye\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-04-18 00:21:57 --> Table 'db_hbl_kye.language' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `language`
+WHERE `staff_id` = \'1322\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `language`
+WHERE `staff_id` = \'1322\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `language`
+WHERE `staff_id` = \'1322\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1749): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `language`
+WHERE `staff_id` = :staff_id:', [...], false)
+ 5 APPPATH\Models\LanguageModel.php(79): CodeIgniter\Database\BaseBuilder->getWhere([...])
+ 6 APPPATH\Controllers\Language.php(34): App\Models\LanguageModel->get_query_data([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 00:22:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:23:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:23:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:23:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:23:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:24:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:24:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:24:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:24:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:24:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:24:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:24:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:25:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:25:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:25:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:26:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:26:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:26:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:27:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:27:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:27:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:28:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:28:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:28:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:28:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:29:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:29:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:29:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:29:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:29:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:30:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:30:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:30:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:30:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:31:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:31:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:32:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:36:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:38:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:41:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:42:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:42:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:43:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:43:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:44:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:44:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:45:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:45:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:45:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:49:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:51:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:52:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:52:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:52:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-18 00:52:50 --> Undefined array key "e_write_p"
+in APPPATH\Views\language_view.php on line 55.
+ 1 APPPATH\Views\language_view.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "e_write_p"', 'Z:\\xampp\\htdocs\\hbl-kye\\app\\Views\\language_view.php', 55)
+ 2 SYSTEMPATH\View\View.php(213): include('Z:\\xampp\\htdocs\\hbl-kye\\app\\Views\\language_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('language_view', [], true)
+ 5 APPPATH\Controllers\Language.php(41): view('language_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 00:53:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-18 00:53:15 --> Undefined array key "e_write_p"
+in APPPATH\Views\language_view.php on line 55.
+ 1 APPPATH\Views\language_view.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "e_write_p"', 'Z:\\xampp\\htdocs\\hbl-kye\\app\\Views\\language_view.php', 55)
+ 2 SYSTEMPATH\View\View.php(213): include('Z:\\xampp\\htdocs\\hbl-kye\\app\\Views\\language_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('language_view', [], true)
+ 5 APPPATH\Controllers\Language.php(41): view('language_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 00:53:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 00:55:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-18 00:55:35 --> mysqli_sql_exception: Table 'db_hbl_kye.language_n' doesn't exist in Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1749): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 Z:\xampp\htdocs\hbl-kye\app\Models\LanguageModel.php(79): CodeIgniter\Database\BaseBuilder->getWhere(Array)
+#5 Z:\xampp\htdocs\hbl-kye\app\Controllers\Language.php(34): App\Models\LanguageModel->get_query_data(Array)
+#6 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\Language->index()
+#7 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+#8 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 Z:\xampp\htdocs\hbl-kye\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-04-18 00:55:35 --> Table 'db_hbl_kye.language_n' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `language_n`
+WHERE `staff_id` = \'1322\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `language_n`
+WHERE `staff_id` = \'1322\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `language_n`
+WHERE `staff_id` = \'1322\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1749): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `language_n`
+WHERE `staff_id` = :staff_id:', [...], false)
+ 5 APPPATH\Models\LanguageModel.php(79): CodeIgniter\Database\BaseBuilder->getWhere([...])
+ 6 APPPATH\Controllers\Language.php(34): App\Models\LanguageModel->get_query_data([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 00:58:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-18 00:58:58 --> mysqli_sql_exception: Table 'db_hbl_kye.language_n' doesn't exist in Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1749): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 Z:\xampp\htdocs\hbl-kye\app\Models\LanguageModel.php(79): CodeIgniter\Database\BaseBuilder->getWhere(Array)
+#5 Z:\xampp\htdocs\hbl-kye\app\Controllers\Language.php(36): App\Models\LanguageModel->get_query_data(Array)
+#6 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\Language->index()
+#7 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+#8 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 Z:\xampp\htdocs\hbl-kye\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-04-18 00:58:58 --> Table 'db_hbl_kye.language_n' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `language_n`
+WHERE `staff_id` = \'1322\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `language_n`
+WHERE `staff_id` = \'1322\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `language_n`
+WHERE `staff_id` = \'1322\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1749): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `language_n`
+WHERE `staff_id` = :staff_id:', [...], false)
+ 5 APPPATH\Models\LanguageModel.php(79): CodeIgniter\Database\BaseBuilder->getWhere([...])
+ 6 APPPATH\Controllers\Language.php(36): App\Models\LanguageModel->get_query_data([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 00:58:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-18 00:58:59 --> mysqli_sql_exception: Table 'db_hbl_kye.language_n' doesn't exist in Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1749): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 Z:\xampp\htdocs\hbl-kye\app\Models\LanguageModel.php(79): CodeIgniter\Database\BaseBuilder->getWhere(Array)
+#5 Z:\xampp\htdocs\hbl-kye\app\Controllers\Language.php(36): App\Models\LanguageModel->get_query_data(Array)
+#6 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\Language->index()
+#7 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+#8 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 Z:\xampp\htdocs\hbl-kye\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-04-18 00:58:59 --> Table 'db_hbl_kye.language_n' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `language_n`
+WHERE `staff_id` = \'1322\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `language_n`
+WHERE `staff_id` = \'1322\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `language_n`
+WHERE `staff_id` = \'1322\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1749): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `language_n`
+WHERE `staff_id` = :staff_id:', [...], false)
+ 5 APPPATH\Models\LanguageModel.php(79): CodeIgniter\Database\BaseBuilder->getWhere([...])
+ 6 APPPATH\Controllers\Language.php(36): App\Models\LanguageModel->get_query_data([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 00:59:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-18 00:59:00 --> mysqli_sql_exception: Table 'db_hbl_kye.language_n' doesn't exist in Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1749): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 Z:\xampp\htdocs\hbl-kye\app\Models\LanguageModel.php(79): CodeIgniter\Database\BaseBuilder->getWhere(Array)
+#5 Z:\xampp\htdocs\hbl-kye\app\Controllers\Language.php(36): App\Models\LanguageModel->get_query_data(Array)
+#6 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\Language->index()
+#7 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+#8 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 Z:\xampp\htdocs\hbl-kye\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-04-18 00:59:00 --> Table 'db_hbl_kye.language_n' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `language_n`
+WHERE `staff_id` = \'1322\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `language_n`
+WHERE `staff_id` = \'1322\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `language_n`
+WHERE `staff_id` = \'1322\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1749): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `language_n`
+WHERE `staff_id` = :staff_id:', [...], false)
+ 5 APPPATH\Models\LanguageModel.php(79): CodeIgniter\Database\BaseBuilder->getWhere([...])
+ 6 APPPATH\Controllers\Language.php(36): App\Models\LanguageModel->get_query_data([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 00:59:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:00:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:00:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:02:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:03:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:03:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:03:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:03:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:04:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:04:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:06:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:06:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:06:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:06:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:06:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:06:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:07:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:07:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:07:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:14:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-18 01:14:16 --> Undefined array key "staff_id"
+in APPPATH\Controllers\Language.php on line 64.
+ 1 APPPATH\Controllers\Language.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "staff_id"', 'Z:\\xampp\\htdocs\\hbl-kye\\app\\Controllers\\Language.php', 64)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->update()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 01:14:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-18 01:14:48 --> mysqli_sql_exception: Unknown column 'e_id' in 'field list' in Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `la...', 0)
+#1 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `la...')
+#2 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `la...')
+#3 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `la...', Array, false)
+#4 Z:\xampp\htdocs\hbl-kye\app\Models\LanguageModel.php(52): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 Z:\xampp\htdocs\hbl-kye\app\Controllers\Language.php(69): App\Models\LanguageModel->insert_data(Array)
+#6 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\Language->update()
+#7 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+#8 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 Z:\xampp\htdocs\hbl-kye\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-04-18 01:14:48 --> Unknown column 'e_id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `language_n` (`n_read_p`, `n_write_p`, `n_speak_p`, `n_understand_p`, `e_id`, `e_read_p`, `e_write_p`, `e_speak_p`, `e_understand_p`, `staff_id`) VALUES (\'1\', \'1\', \'1\', \'1\', \'0\', \'1\', \'1\', \'1\', \'1\', \'1322\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `language_n` (`n_read_p`, `n_write_p`, `n_speak_p`, `n_understand_p`, `e_id`, `e_read_p`, `e_write_p`, `e_speak_p`, `e_understand_p`, `staff_id`) VALUES (\'1\', \'1\', \'1\', \'1\', \'0\', \'1\', \'1\', \'1\', \'1\', \'1322\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `language_n` (`n_read_p`, `n_write_p`, `n_speak_p`, `n_understand_p`, `e_id`, `e_read_p`, `e_write_p`, `e_speak_p`, `e_understand_p`, `staff_id`) VALUES (\'1\', \'1\', \'1\', \'1\', \'0\', \'1\', \'1\', \'1\', \'1\', \'1322\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `language_n` (`n_read_p`, `n_write_p`, `n_speak_p`, `n_understand_p`, `e_id`, `e_read_p`, `e_write_p`, `e_speak_p`, `e_understand_p`, `staff_id`) VALUES (:n_read_p:, :n_write_p:, :n_speak_p:, :n_understand_p:, :e_id:, :e_read_p:, :e_write_p:, :e_speak_p:, :e_understand_p:, :staff_id:)', [...], false)
+ 5 APPPATH\Models\LanguageModel.php(52): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Language.php(69): App\Models\LanguageModel->insert_data([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->update()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 01:15:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-18 01:15:27 --> mysqli_sql_exception: Unknown column 'e_id' in 'field list' in Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `la...', 0)
+#1 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `la...')
+#2 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `la...')
+#3 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `la...', Array, false)
+#4 Z:\xampp\htdocs\hbl-kye\app\Models\LanguageModel.php(52): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 Z:\xampp\htdocs\hbl-kye\app\Controllers\Language.php(69): App\Models\LanguageModel->insert_data(Array)
+#6 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\Language->update()
+#7 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+#8 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 Z:\xampp\htdocs\hbl-kye\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-04-18 01:15:27 --> Unknown column 'e_id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `language_n` (`n_read_p`, `n_write_p`, `n_speak_p`, `n_understand_p`, `e_id`, `e_read_p`, `e_write_p`, `e_speak_p`, `e_understand_p`, `staff_id`) VALUES (\'1\', \'1\', \'1\', \'1\', \'0\', \'1\', \'1\', \'1\', \'1\', \'1322\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `language_n` (`n_read_p`, `n_write_p`, `n_speak_p`, `n_understand_p`, `e_id`, `e_read_p`, `e_write_p`, `e_speak_p`, `e_understand_p`, `staff_id`) VALUES (\'1\', \'1\', \'1\', \'1\', \'0\', \'1\', \'1\', \'1\', \'1\', \'1322\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `language_n` (`n_read_p`, `n_write_p`, `n_speak_p`, `n_understand_p`, `e_id`, `e_read_p`, `e_write_p`, `e_speak_p`, `e_understand_p`, `staff_id`) VALUES (\'1\', \'1\', \'1\', \'1\', \'0\', \'1\', \'1\', \'1\', \'1\', \'1322\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `language_n` (`n_read_p`, `n_write_p`, `n_speak_p`, `n_understand_p`, `e_id`, `e_read_p`, `e_write_p`, `e_speak_p`, `e_understand_p`, `staff_id`) VALUES (:n_read_p:, :n_write_p:, :n_speak_p:, :n_understand_p:, :e_id:, :e_read_p:, :e_write_p:, :e_speak_p:, :e_understand_p:, :staff_id:)', [...], false)
+ 5 APPPATH\Models\LanguageModel.php(52): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Language.php(69): App\Models\LanguageModel->insert_data([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->update()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 01:15:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:15:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-18 01:15:40 --> mysqli_sql_exception: Unknown column 'e_id' in 'field list' in Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `la...', 0)
+#1 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `la...')
+#2 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `la...')
+#3 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `la...', Array, false)
+#4 Z:\xampp\htdocs\hbl-kye\app\Models\LanguageModel.php(52): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 Z:\xampp\htdocs\hbl-kye\app\Controllers\Language.php(69): App\Models\LanguageModel->insert_data(Array)
+#6 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\Language->update()
+#7 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+#8 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 Z:\xampp\htdocs\hbl-kye\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-04-18 01:15:40 --> Unknown column 'e_id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `language_n` (`n_read_p`, `n_speak_p`, `e_id`, `e_write_p`, `e_understand_p`, `staff_id`) VALUES (\'1\', \'1\', \'0\', \'1\', \'1\', \'1322\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `language_n` (`n_read_p`, `n_speak_p`, `e_id`, `e_write_p`, `e_understand_p`, `staff_id`) VALUES (\'1\', \'1\', \'0\', \'1\', \'1\', \'1322\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `language_n` (`n_read_p`, `n_speak_p`, `e_id`, `e_write_p`, `e_understand_p`, `staff_id`) VALUES (\'1\', \'1\', \'0\', \'1\', \'1\', \'1322\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `language_n` (`n_read_p`, `n_speak_p`, `e_id`, `e_write_p`, `e_understand_p`, `staff_id`) VALUES (:n_read_p:, :n_speak_p:, :e_id:, :e_write_p:, :e_understand_p:, :staff_id:)', [...], false)
+ 5 APPPATH\Models\LanguageModel.php(52): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Language.php(69): App\Models\LanguageModel->insert_data([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->update()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 01:16:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-18 01:16:54 --> mysqli_sql_exception: Unknown column 'e_id' in 'field list' in Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `la...', 0)
+#1 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `la...')
+#2 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `la...')
+#3 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `la...', Array, false)
+#4 Z:\xampp\htdocs\hbl-kye\app\Models\LanguageModel.php(52): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 Z:\xampp\htdocs\hbl-kye\app\Controllers\Language.php(70): App\Models\LanguageModel->insert_data(Array)
+#6 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\Language->update()
+#7 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+#8 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 Z:\xampp\htdocs\hbl-kye\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-04-18 01:16:54 --> Unknown column 'e_id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `language_n` (`n_read_p`, `n_speak_p`, `e_id`, `e_write_p`, `e_understand_p`, `staff_id`) VALUES (\'1\', \'1\', \'0\', \'1\', \'1\', \'1322\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `language_n` (`n_read_p`, `n_speak_p`, `e_id`, `e_write_p`, `e_understand_p`, `staff_id`) VALUES (\'1\', \'1\', \'0\', \'1\', \'1\', \'1322\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `language_n` (`n_read_p`, `n_speak_p`, `e_id`, `e_write_p`, `e_understand_p`, `staff_id`) VALUES (\'1\', \'1\', \'0\', \'1\', \'1\', \'1322\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `language_n` (`n_read_p`, `n_speak_p`, `e_id`, `e_write_p`, `e_understand_p`, `staff_id`) VALUES (:n_read_p:, :n_speak_p:, :e_id:, :e_write_p:, :e_understand_p:, :staff_id:)', [...], false)
+ 5 APPPATH\Models\LanguageModel.php(52): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Language.php(70): App\Models\LanguageModel->insert_data([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->update()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 01:17:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-18 01:17:35 --> mysqli_sql_exception: Unknown column 'e_id' in 'field list' in Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `la...', 0)
+#1 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `la...')
+#2 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `la...')
+#3 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `la...', Array, false)
+#4 Z:\xampp\htdocs\hbl-kye\app\Models\LanguageModel.php(52): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 Z:\xampp\htdocs\hbl-kye\app\Controllers\Language.php(71): App\Models\LanguageModel->insert_data(Array)
+#6 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\Language->update()
+#7 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+#8 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 Z:\xampp\htdocs\hbl-kye\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-04-18 01:17:35 --> Unknown column 'e_id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `language_n` (`n_read_p`, `n_speak_p`, `e_id`, `e_write_p`, `e_understand_p`, `staff_id`) VALUES (\'1\', \'1\', \'0\', \'1\', \'1\', \'1322\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `language_n` (`n_read_p`, `n_speak_p`, `e_id`, `e_write_p`, `e_understand_p`, `staff_id`) VALUES (\'1\', \'1\', \'0\', \'1\', \'1\', \'1322\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `language_n` (`n_read_p`, `n_speak_p`, `e_id`, `e_write_p`, `e_understand_p`, `staff_id`) VALUES (\'1\', \'1\', \'0\', \'1\', \'1\', \'1322\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `language_n` (`n_read_p`, `n_speak_p`, `e_id`, `e_write_p`, `e_understand_p`, `staff_id`) VALUES (:n_read_p:, :n_speak_p:, :e_id:, :e_write_p:, :e_understand_p:, :staff_id:)', [...], false)
+ 5 APPPATH\Models\LanguageModel.php(52): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Language.php(71): App\Models\LanguageModel->insert_data([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->update()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 01:17:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-18 01:17:52 --> mysqli_sql_exception: Unknown column 'e_id' in 'field list' in Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `la...', 0)
+#1 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `la...')
+#2 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `la...')
+#3 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `la...', Array, false)
+#4 Z:\xampp\htdocs\hbl-kye\app\Models\LanguageModel.php(52): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 Z:\xampp\htdocs\hbl-kye\app\Controllers\Language.php(71): App\Models\LanguageModel->insert_data(Array)
+#6 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\Language->update()
+#7 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+#8 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 Z:\xampp\htdocs\hbl-kye\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-04-18 01:17:52 --> Unknown column 'e_id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `language_n` (`n_read_p`, `n_speak_p`, `e_id`, `e_write_p`, `e_understand_p`, `staff_id`) VALUES (\'1\', \'1\', \'0\', \'1\', \'1\', \'1322\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `language_n` (`n_read_p`, `n_speak_p`, `e_id`, `e_write_p`, `e_understand_p`, `staff_id`) VALUES (\'1\', \'1\', \'0\', \'1\', \'1\', \'1322\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `language_n` (`n_read_p`, `n_speak_p`, `e_id`, `e_write_p`, `e_understand_p`, `staff_id`) VALUES (\'1\', \'1\', \'0\', \'1\', \'1\', \'1322\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `language_n` (`n_read_p`, `n_speak_p`, `e_id`, `e_write_p`, `e_understand_p`, `staff_id`) VALUES (:n_read_p:, :n_speak_p:, :e_id:, :e_write_p:, :e_understand_p:, :staff_id:)', [...], false)
+ 5 APPPATH\Models\LanguageModel.php(52): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Language.php(71): App\Models\LanguageModel->insert_data([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->update()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 01:23:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:23:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:23:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:23:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:24:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:25:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:25:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:26:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-18 01:26:13 --> Cannot use object of type stdClass as array
+in APPPATH\Views\language_view.php on line 38.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('language_view', [], true)
+ 4 APPPATH\Controllers\Language.php(43): view('language_view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 01:26:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-18 01:26:36 --> Cannot use object of type stdClass as array
+in APPPATH\Views\language_view.php on line 38.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('language_view', [], true)
+ 4 APPPATH\Controllers\Language.php(43): view('language_view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 01:26:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-18 01:26:50 --> Cannot use object of type stdClass as array
+in APPPATH\Views\language_view.php on line 38.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('language_view', [], true)
+ 4 APPPATH\Controllers\Language.php(43): view('language_view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 01:27:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-18 01:27:21 --> Cannot use object of type stdClass as array
+in APPPATH\Views\language_view.php on line 38.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('language_view', [], true)
+ 4 APPPATH\Controllers\Language.php(44): view('language_view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 01:31:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:31:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:31:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:31:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-18 01:31:19 --> Undefined array key "staff_id"
+in APPPATH\Controllers\Language.php on line 72.
+ 1 APPPATH\Controllers\Language.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "staff_id"', 'Z:\\xampp\\htdocs\\hbl-kye\\app\\Controllers\\Language.php', 72)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->update()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 01:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-18 01:32:23 --> mysqli_sql_exception: Unknown column 'id' in 'where clause' in Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `languag...', 0)
+#1 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `languag...')
+#2 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `languag...')
+#3 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `languag...', Array, false)
+#4 Z:\xampp\htdocs\hbl-kye\app\Models\LanguageModel.php(59): CodeIgniter\Database\BaseBuilder->update(Array, Array)
+#5 Z:\xampp\htdocs\hbl-kye\app\Controllers\Language.php(73): App\Models\LanguageModel->update_data('1', Array)
+#6 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\Language->update()
+#7 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+#8 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 Z:\xampp\htdocs\hbl-kye\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 Z:\xampp\htdocs\hbl-kye\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-04-18 01:32:23 --> Unknown column 'id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `language_n` SET `n_id` = \'1\', `n_read_p` = \'1\', `n_write_p` = \'1\', `n_speak_p` = \'1\', `n_understand_p` = \'1\', `n_read_i` = \'1\', `n_write_i` = \'1\', `n_speak_i` = \'1\', `n_understand_i` = \'1\'
+WHERE `id` = \'1\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `language_n` SET `n_id` = \'1\', `n_read_p` = \'1\', `n_write_p` = \'1\', `n_speak_p` = \'1\', `n_understand_p` = \'1\', `n_read_i` = \'1\', `n_write_i` = \'1\', `n_speak_i` = \'1\', `n_understand_i` = \'1\'
+WHERE `id` = \'1\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `language_n` SET `n_id` = \'1\', `n_read_p` = \'1\', `n_write_p` = \'1\', `n_speak_p` = \'1\', `n_understand_p` = \'1\', `n_read_i` = \'1\', `n_write_i` = \'1\', `n_speak_i` = \'1\', `n_understand_i` = \'1\'
+WHERE `id` = \'1\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `language_n` SET `n_id` = :n_id:, `n_read_p` = :n_read_p:, `n_write_p` = :n_write_p:, `n_speak_p` = :n_speak_p:, `n_understand_p` = :n_understand_p:, `n_read_i` = :n_read_i:, `n_write_i` = :n_write_i:, `n_speak_i` = :n_speak_i:, `n_understand_i` = :n_understand_i:
+WHERE `id` = :id:', [...], false)
+ 5 APPPATH\Models\LanguageModel.php(59): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 6 APPPATH\Controllers\Language.php(73): App\Models\LanguageModel->update_data('1', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->update()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 01:35:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-18 01:35:28 --> Undefined variable $primaryKey
+in APPPATH\Models\LanguageModel.php on line 59.
+ 1 APPPATH\Models\LanguageModel.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $primaryKey', 'Z:\\xampp\\htdocs\\hbl-kye\\app\\Models\\LanguageModel.php', 59)
+ 2 APPPATH\Controllers\Language.php(73): App\Models\LanguageModel->update_data('1', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->update()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 01:35:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:35:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:35:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-18 01:35:58 --> Call to a member function getResult() on int
+in APPPATH\Controllers\Language.php on line 81.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Language->update()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Language))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('Z:\\xampp\\htdocs\\hbl-kye\\public\\index.php')
+INFO - 2023-04-18 01:37:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:37:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:37:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:37:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:37:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:38:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:38:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:40:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:40:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:40:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:40:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:40:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:40:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:40:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:40:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:40:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:41:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:42:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:42:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:42:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:42:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:42:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:42:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:42:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:42:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:42:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:42:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:42:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 01:42:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-18 14:43:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
